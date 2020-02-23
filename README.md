@@ -1,4 +1,4 @@
-# [Angular Ecommerce](https://neftalylt.github.io/angular-ecommerce/)
+# [Angular eCommerce](https://neftalylt.github.io/angular-ecommerce/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
